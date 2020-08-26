@@ -2,7 +2,7 @@ Hi There, Welcome to my GitHub Profile 👋
 ---
 
 ### <ins>About Me</ins>
-- 🔭 I’m currently working on: School projects and re-writing my old programs
+- 🔭 I’m currently working on: School projects, my password manager, and re-writing my old programs
 - 💻 My main language is Python
 - 🌱 I’m currently learning: Java and C
 - 🤔 I’m looking for help with: Open-source projects
