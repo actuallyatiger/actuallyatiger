@@ -2,10 +2,10 @@ Hi There, Welcome to my GitHub Profile 👋
 ---
 
 ### <ins>About Me</ins>
-- 🔭 I’m currently working on: School projects, my password manager, and re-writing my old programs
+- 🔭 I’m currently working on: School projects, and re-writing my password manager
 - 💻 My main language is Python
-- 🌱 I’m currently learning: Java and C
-- 🤔 I’m looking for help with: Open-source projects
+- 🌱 I’m currently learning: Deno
+- 🤔 I’m looking to help with: Open-source projects
 
 ### <ins>Contact Me</ins>
 [<img align="left" alt="Reddit (Overfront-64)" width="32px" src="https://image.flaticon.com/icons/svg/1384/1384019.svg" />][Reddit]
