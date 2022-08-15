@@ -2,16 +2,9 @@
 
 ### <ins>About Me</ins>
 
-- 🔭 I’m currently working on: Refactoring old projects and designing my website
+- 🔭 I’m currently working on: a cloud-based password manager
 - 💻 My main language is Python
-- 🌱 I’m currently learning: Java
-- 🤔 I’m looking to help with: Open-source projects
-
-### <ins>Contact Me</ins>
-
-- [Instagram](https://www.instagram.com/definitelyatiger/)
-- [Twitter](https://www.twitter.com/actuallyatiger)
-- Email (tigertaylor1024@gmail.com)
+- 🌱 I’m currently learning: Rust
 
 ### <ins>Languages</ins>
 
@@ -22,4 +15,5 @@
 #### <ins>Learning</ins>
 
 - Java
-- Go
+- Rust
+- C/C++
