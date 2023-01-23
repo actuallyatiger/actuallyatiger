@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiger</h1>
-- I’m currently working on [KeySafe](https://github.com/actuallyatiger/keysafe)
+
+- I’m currently working on [KeySafe](https://github.com/actuallyatiger/keysafe) | [KeySafe API](https://github.com/actuallyatiger/keysafe-api)
 
 - I’m currently learning **Rust**
 
