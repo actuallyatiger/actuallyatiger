@@ -1,11 +1,14 @@
 <h1 align="center">Hi, I'm Tiger</h1>
 
+I'm an undergraduate student at the University of Oxford studying Computer Science.
+
 - I’m currently working on [KeySafe](https://github.com/actuallyatiger/keysafe) | [KeySafe API](https://github.com/actuallyatiger/keysafe-api)
 
 - I’m currently learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/tiger-taylor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiger-taylor" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13877680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13877680" height="30" width="40" /></a>
 <a href="https://kaggle.com/actuallyatiger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="actuallyatiger" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/actuallyatiger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="actuallyatiger" height="30" width="40" /></a>
