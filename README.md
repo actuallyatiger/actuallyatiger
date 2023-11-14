@@ -4,7 +4,7 @@ I'm an undergraduate student at the University of Oxford studying Computer Scien
 
 - I’m currently working on [KeySafe](https://github.com/actuallyatiger/keysafe) | [KeySafe API](https://github.com/actuallyatiger/keysafe-api)
 
-- I’m currently learning **Rust**
+- I’m currently learning **Rust** & **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
