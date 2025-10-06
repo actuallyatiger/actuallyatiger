@@ -11,7 +11,8 @@
 ###
 
 <ul align="left">
-  <li><a href="https://github.com/actuallyatiger/frost">Frost</a>: Compiler Built in Rust</li>
+  <!--<li><a href="https://github.com/actuallyatiger/frost">Frost</a>: Compiler Built in Rust</li>-->
+  <li><a href="https://github.com/actuallyatiger/rebar">Rebar VSC</a></li>
   <li><a href="https://github.com/actuallyatiger/discord-beat-bot">Beat Bot</a>: Discord Music Bot</li>
   <li><a href="https://github.com/actuallyatiger/website">Portfolio Website</a></li>
   <li><a href="https://github.com/actuallyatiger/links">Links Website</a></li>
